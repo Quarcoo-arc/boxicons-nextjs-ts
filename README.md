@@ -1,6 +1,6 @@
 # Boxicons - NextJS Integration
 
-A [Next.js](https://nextjs.org/) application showing how to integrate boxicons into a next.js application.
+A [Next.js](https://nextjs.org/) application showing how to integrate [boxicons](https://boxicons.com/) into a next.js application.
 
 This project was bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
